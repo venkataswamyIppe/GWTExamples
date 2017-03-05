@@ -1,0 +1,13 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+com.gwt.client.events.DataEvent, true, true, false, false, com.gwt.client.events.DataEvent/262415328, 262415328
+com.gwt.client.events.PersonRetriveEvent, true, true, false, false, com.gwt.client.events.PersonRetriveEvent/3484403629, 3484403629
+com.gwt.client.events.PersonUpdatedEvent, true, true, false, false, com.gwt.client.events.PersonUpdatedEvent/3721557149, 3721557149
+com.gwt.client.model.Person, true, true, false, false, com.gwt.client.model.Person/2809709819, 2809709819
+com.gwt.client.service.PersonService, false, false, false, false, _, 2986071137
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131

@@ -1,0 +1,18 @@
+
+root { 
+    display: block;
+}
+
+.tableHeader {
+  background-color: #2062B8;
+  color: white;
+  font-style: italic;
+}
+
+.tableRow {
+  background-color: silver;
+  color: black;
+  border: 1px solid #BBBBBB;
+
+}
+
